@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tdxnvr.nuansa138.xyz/sitemap.xml
